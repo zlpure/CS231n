@@ -1,5 +1,5 @@
 ## My Solution of Assignments of CS231n Winter2016
-This is my solution of trhree assignments of CS231n Winter2016.
+This is my solution of three assignments of CS231n Winter2016.
 [CS231n: Convolutional Neural Networks for Visual Recognition Winter2016](http://cs231n.stanford.edu/2016/) is
 a classical class, which teaches you to 
 implement, train and debug your own neural networks via python package numpy on Cifar10 datasets
@@ -7,7 +7,7 @@ and gain a detailed understanding of cutting-edge research in computer vision.
 ******
 **Note:** If you consult my code that you may want to incorporate into your strategy or algorithm, 
 so long as you clearly cite your sources in your code and your writeup.
-
+******
 
 ## Table of Contents
 * [Assignment 1](https://github.com/zlpure/CS231n/tree/master/assignment1)
